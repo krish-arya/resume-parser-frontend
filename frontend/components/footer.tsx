@@ -76,17 +76,13 @@ export default function Footer() {
             <h4 className="font-semibold mb-4">Contact</h4>
             <ul className="space-y-2 text-sm text-gray-400">
               <li>
-                <strong className="text-white">Developer 1:</strong>
+                <strong className="text-white">Developer:</strong>
                 <br />
-                <a href="mailto:krisharya2k5@gmail.com" className="hover:text-white transition-colors">
-                  mvibhuti82@gmail.com
-                </a>
-              </li>
-              <li>
-                <strong className="text-white">Developer 2:</strong>
-                <br />
-                <a href="mailto:kashikamalhotra4@gmail.com" className="hover:text-white transition-colors">
-                  kashikamalhotra4@gmail.com
+                <a
+                  href="mailto:Prathamgandas1105@gmail.com"
+                  className="hover:text-white transition-colors"
+                >
+                  Prathamgandas1105@gmail.com
                 </a>
               </li>
             </ul>
